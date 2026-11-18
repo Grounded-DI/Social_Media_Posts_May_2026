@@ -4,7 +4,7 @@ A dated archive of Grounded DI LLC public posts, screenshots, technical illustra
 
 ## Overview
 
-This repository is an archival collection, not a single executable product. The May 2026 repository history contains 60 non-README artifacts plus this README: JPEG and PNG captures, PDFs, a source-linked text capture, and duplicate copies of selected public records. Individual files preserve their own dates, captions, terminology, and publication context; the repository date identifies when the collection was assembled, not the date of every underlying post.
+The May 2026 archive contains **60 non-README artifacts**: image captures, PDFs, a source-linked text capture, and duplicate copies of selected records. The [fixed-case MathWise paper](./Fixed_Certificate_for_Subset_Sums_of%20Powers_of_3_4_7.pdf), StormWise comparisons, and architecture diagrams are the main technical starting points. File captions and dates identify individual posts; the collection date does not date every depicted event.
 
 The archive preserves an early public record of Grounded DI work across rule-governed output control, auditability, replay-oriented reasoning, legal and environmental workflows, weather analysis, radiology commentary, mathematical certificates, and related domain experiments. Historical language is retained as historical language. Current implementation or product status should be determined from the repository that contains the relevant implementation artifact.
 
@@ -43,16 +43,9 @@ context and constraints
 
 The collection repeatedly frames “close” outputs as held at an export gate when required evidence, state, or replay conditions are missing. It also distinguishes ordinary public commentary from domain-specific demonstrations. Those are useful architectural themes, but this repository does not contain the runtime source needed to establish how any particular implementation enforces them.
 
-## Archive, demonstration, and model capability
+## Reading the archive
 
-The archive contains several different kinds of material:
-
-- **Public record:** posts, screenshots, article captures, search captures, and platform analytics.
-- **Demonstration record:** the weather comparisons, MathWise paper, and architecture illustrations described above.
-- **Model or account commentary:** AI-mode summaries and third-party-account captures that discuss Grounded DI.
-- **Historical vocabulary:** terms such as DI², Vault, Scroll, Seal, entropy, and FastPath as they appeared in the dated materials.
-
-An image showing a generated result is not, by itself, a benchmark or independent validation. Likewise, a description of a control architecture is not the same thing as an executable implementation. This README keeps those propositions separate while preserving the original public record.
+The collection mixes technical demonstrations, public captures, architecture visuals, and AI-generated commentary. The table above identifies each substantive result and its recorded scope; the [MathWise paper](./Fixed_Certificate_for_Subset_Sums_of%20Powers_of_3_4_7.pdf) is a fixed-case certificate record, while the image captures show displayed posts or results.
 
 ## How to review
 
@@ -63,9 +56,7 @@ An image showing a generated result is not, by itself, a benchmark or independen
 
 ## Validation and repository scope
 
-This is a public documentary archive. It contains no source tree, package manifest, executable verifier, test harness, or deployment configuration. No fresh tests were run during this review. Where an artifact reports `PASS`, “verified,” or “sealed,” that status is quoted as the artifact’s recorded result and is not upgraded to external validation.
-
-AI-mode summaries, search captures, and social-media analytics preserve public context but are not independent evidentiary sources. A hash identifies the exact bytes of the hashed file; it does not establish the substantive truth of every statement displayed within those bytes.
+The archive contains no source tree or executable verifier, so the reported MathWise replay and displayed control states were not rerun from this repository. AI-mode and search captures preserve commentary. Hashes identify the named files' bytes; substantive results follow the methods and limitations in the linked artifacts.
 
 ## Authorship, provenance, and intellectual property
 
